@@ -9,7 +9,7 @@
 
 <p align="center"> - Atualmente estou estudando no Bootcamp da DIO para o estágio a Avenade<br>
                    - Sempre fui apaixonado por tecnologia, me sinto realizado estudando Lingagens de programação.<br>
-    			   - Acredito que essa área necessite de mais diversidade, todos merecem conhecer esse mundo incrível da tecnologia! <img img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"><br>
+    			   - Acredito que essa área necessite de mais diversidade, todos merecem conhecer esse mundo incrível da tecnologia!<br> <img img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><br>
                    - Minhas habilidades mais desenvolvidas são em: <br> <br>
     <img src="https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2"><br><br>
     <img src="https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2"><br><br>
