@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knowther&theme=radical&title_color=8E2DE2&text_color=fff)
 
-![about me](\ABOUTME.png)
+![about me](/ABOUTME.png)
 
 <p align="center"> - Atualmente estou estudando no Bootcamp da DIO para o estágio a Avenade<br>
                    - Sempre fui apaixonado por tecnologia, me sinto realizado estudando Lingagens de programação<br>
