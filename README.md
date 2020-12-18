@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=8E2DE2"><br><br>
     <br> <br>
     <img src="./evercoding.gif"><br>
-    <img width="200px" src="./3- Selo Branco e Verde 1-01.png">
+    <img src="./3- Selo Branco e Verde 1-01.png">
     
 
 ​    
