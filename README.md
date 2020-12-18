@@ -20,13 +20,14 @@
     <img src="https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=8E2DE2"><br><br>
     <br> <br>
     <img src="./evercoding.gif">
-    <img width="200px" src="./3- Selo Branco e Verde 1-01.png">
+    
 
 ​    
 
 </p>
 
 
+<p align="right"><img width="200px" src="./3- Selo Branco e Verde 1-01.png"></p>
 
 <p align="center"><b> Fun fact: Eu resolvi a pergunta mais antiga da humanidade em apenas uma linha de JS, quer ver?</b>
 
