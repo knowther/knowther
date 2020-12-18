@@ -28,14 +28,3 @@
 
 
 <p align="right"><img width="200px" src="./3- Selo Branco e Verde 1-01.png"></p>
-
-<p align="center"><b> Fun fact: Eu resolvi a pergunta mais antiga da humanidade em apenas uma linha de JS, quer ver?</b>
-
-```javascript
-// Quem veio antes, a galinha ou o ovo?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
-
->>> [ '🐔', '🐣', '🐥', '🥚' ]
-```
-
-(Trecho de código feito por [AdamAlston](https://github.com/adamalston) )
