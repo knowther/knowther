@@ -19,7 +19,8 @@
     <img src="https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2"><br><br>
     <img src="https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=8E2DE2"><br><br>
     <br> <br>
-    <img src="./evercoding.gif">
+    <img src="./evercoding.gif"><br>
+    <img width="200px" src="./3- Selo Branco e Verde 1-01.png">
     
 
 ​    
@@ -35,4 +36,3 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 ```
 (Trecho de código feito por [AdamAlston](https://github.com/adamalston) )
 
-<p align="right"><img width="200px" src="./3- Selo Branco e Verde 1-01.png"></p>
