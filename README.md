@@ -7,9 +7,7 @@
 
 
 
-<p align="center"> - Atualmente estou estudando no Bootcamp da DIO para o estágio a Avenade.<br>
-    			   - Também estou estudando Azure Cloud para a prova AZ-900.<br>
-    			   - Fui um dos vencedores do Cloud Skill Challenger da DIO em parceria com a Microsoft.<br>
+<p align="center"> 
                    - Sempre fui apaixonado por tecnologia, me sinto realizado estudando Lingagens de programação.<br>
     			   - Acredito que essa área necessite de mais diversidade, todos merecem conhecer esse mundo incrível da tecnologia!<br> <img img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><br>
                    - Minhas habilidades mais desenvolvidas são em: <br> <br>
